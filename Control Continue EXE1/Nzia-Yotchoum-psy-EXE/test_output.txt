@@ -1,0 +1,20 @@
+ Nom: Papiou   Race: Malamute   Type: SWING_LEADER   Poids: 20.30 (kg)
+
+ Nom: Wolfy   Race: Husky   Type: LEADER   Poids: 25.90 (kg)
+
+ Nom: Karnik   Race: Groenlandais   Type: TEAM_DOG   Poids: 21.40 (kg)
+
+ Nom: Waazaa   Race: Malamute   Type: WHEEL_DOG   Poids: 30.70 (kg)
+
+Traineau:
+Musher: Nicholas
+Nb de Chiens 3
+Ligne : 0
+ Nom: Papiou   Race: Malamute   Type: SWING_LEADER   Poids: 20.30 (kg)
+ Nom: LolyPop   Race: Husky   Type: SWING_LEADER   Poids: 19.30 (kg)
+Ligne : 1
+ Nom: Wolfy   Race: Husky   Type: LEADER   Poids: 25.90 (kg)
+ Nom: Betty   Race: Groenlandais   Type: LEADER   Poids: 27.40 (kg)
+Ligne : 2
+ Nom: Bear   Race: Husky   Type: WHEEL_DOG   Poids: 31.80 (kg)
+ Nom: Beaver   Race: Malamute   Type: WHEEL_DOG   Poids: 32.70 (kg)
