@@ -1,0 +1,17 @@
+# Compiled object files
+*.o
+
+# Compiled executables
+gest
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Debug files
+*.dSYM/
+*.su
+
+# Temporary files
+*~
+*.txt
